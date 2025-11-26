@@ -1372,6 +1372,9 @@
   "/ccac/news/:type/:lang?": [
     "linbuxiao"
   ],
+  "/ccagm/:category{.+}?": [
+    "nczitzk"
+  ],
   "/cccfna/:category/:type?": [
     "hualiong"
   ],
@@ -3170,6 +3173,9 @@
     "HankChow",
     "Konano"
   ],
+  "/gesiba*": [
+    "sk22"
+  ],
   "/getdr/": [
     "nczitzk"
   ],
@@ -4490,7 +4496,7 @@
   "/ithome/tw/feeds/:category": [
     "miles170"
   ],
-  "/iwara/users/:username?/:type?": [
+  "/iwara/users/:username/:type?": [
     "Fatpandac"
   ],
   "/iwara/subscriptions": [
@@ -6187,6 +6193,9 @@
   ],
   "/oeeee/app/reporter/:id": [
     "TimWu007"
+  ],
+  "/oesw*": [
+    "sk22"
   ],
   "/oilchem/:type?/:category?/:subCategory?": [
     "nczitzk"
@@ -8696,6 +8705,9 @@
   "/washingtonpost/app/:category{.+}?": [
     "quiniapiezoelectricity"
   ],
+  "/wbv-gpa/:category?/:state?": [
+    "sk22"
+  ],
   "/wchscu/recruit": [
     "ViggoC"
   ],
@@ -8838,6 +8850,9 @@
   ],
   "/whu/gs/:type?": [
     "Delreyaa"
+  ],
+  "/wiensued*": [
+    "sk22"
   ],
   "/wikinews/latest": [
     "KotoriK"
